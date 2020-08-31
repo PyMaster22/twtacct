@@ -1,4 +1,4 @@
-@import url("../media/ubuntumono/main.css");
+@import url("../media/fonts/ubuntumono/main.css");
 body{
 background: #000000;
 font-family: Ubuntu;
@@ -19,27 +19,6 @@ border-radius: 4px;
 padding: 5px;
 margin: 5px;
 background: #000000;
-}
-.container .container{
-border: 2px solid #00ff00;
-}
-.container .container .container{
-border: 2px solid #00ffff;
-}
-.container .container .container .container{
-border: 2px solid #ff0000;
-}
-.container .container .container .container .container{
-border: 2px solid #ff00ff;
-}
-.container .container .container .container .container .container{
-border: 2px solid #ffff00;
-}
-.container .container .container .container .container .container .container{
-border: 2px solid #ffffff;
-}
-tr.main{
-font-weight: bold;
 }
 a#invis:hover, a#invis:visited, a#invis:link{
 color: inherit;
