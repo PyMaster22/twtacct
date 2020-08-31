@@ -1,6 +1,7 @@
+@import url("../media/ubuntumono/main.css");
 body{
 background: #000000;
-font-family: Courier;
+font-family: Ubuntu;
 color: #ED342F;
 font-size: 25px;
 }
